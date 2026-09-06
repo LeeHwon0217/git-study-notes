@@ -43,18 +43,14 @@ Git을 **배우기 위한 연습장**입니다. 제품 코드가 아니고, 결�
 
 ## 커리큘럼 진행 상황
 
-기초 미션은 [연습_미션.md](연습_미션.md)에 정리되어 있습니다.
+학습 노트는 `levels/` 폴더에 레벨별로 정리되어 있습니다. 전체 지도는 [README.md](README.md).
 
-- [ ] 미션 1 — 첫 커밋 (`status` / `add` / `commit` / `log`)
-- [ ] 미션 2 — 수정하고 차이 보기 (`diff`, `diff --staged`)
-- [ ] 미션 3 — 로그 읽기 (`log --oneline --graph`, `show`)
-- [ ] 미션 4 — 되돌리기 (`restore`, `restore --staged`, `commit --amend`)
-- [ ] 미션 5 — `.gitignore`
-
-기초를 마치면 다음 단계로:
-
-- [ ] 브랜치와 병합 (`branch`, `switch`, `merge`, 충돌 해결)
-- [ ] 원격 저장소 (`remote`, `push`, `pull`, `clone`, PR 흐름)
+- [x] Lv.1 — 기초 사이클 (`status` / `add` / `commit` / `log`)
+- [x] Lv.2 — 변경 추적 (`diff`, `diff --staged`)
+- [ ] Lv.3 — 되돌리기 (`restore`, `restore --staged`, `commit --amend`, `.gitignore`)
+- [ ] Lv.4 — 브랜치와 병합 (`branch`, `switch`, `merge`)
+- [ ] Lv.5 — 충돌 해결 (conflict)
+- [ ] Lv.6 — 원격 저장소 (`remote`, `push`, `pull`, PR)
 
 **단계를 완료하면 위 체크박스를 갱신하세요.** 세션이 바뀌어도 어디까지 했는지
 이어갈 수 있게 하는 것이 이 목록의 목적입니다.
