@@ -5,6 +5,8 @@
 Windows 11 / cmd 환경에서 Git을 처음부터 단계별로 학습한 기록입니다.
 각 레벨은 독립된 문서로 되어 있어, 언제 어디서든 열어서 복습할 수 있습니다.
 
+📍 **원격 저장소**: https://github.com/LeeHwon0217/git-study-notes
+
 ---
 
 ## 🧠 Git의 심장 — 3개의 구역
@@ -119,7 +121,7 @@ flowchart TD
 | 3 | 되돌리기 | [levels/03-undo.md](levels/03-undo.md) | 🔜 다음 |
 | 4 | 브랜치와 병합 | [levels/04-branch.md](levels/04-branch.md) | ⬜ |
 | 5 | 충돌 해결 | [levels/05-conflict.md](levels/05-conflict.md) | ⬜ |
-| 6 | 원격 저장소 | [levels/06-remote.md](levels/06-remote.md) | ⬜ |
+| 6 | 원격 저장소 | [levels/06-remote.md](levels/06-remote.md) | 🚧 push 완료 |
 
 ---
 

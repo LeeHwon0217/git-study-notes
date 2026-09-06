@@ -50,7 +50,8 @@ Git을 **배우기 위한 연습장**입니다. 제품 코드가 아니고, 결�
 - [ ] Lv.3 — 되돌리기 (`restore`, `restore --staged`, `commit --amend`, `.gitignore`)
 - [ ] Lv.4 — 브랜치와 병합 (`branch`, `switch`, `merge`)
 - [ ] Lv.5 — 충돌 해결 (conflict)
-- [ ] Lv.6 — 원격 저장소 (`remote`, `push`, `pull`, PR)
+- [x] Lv.6a — 원격 연결과 push (`remote add`, `push -u`) ← 완료
+- [ ] Lv.6b — `pull`, `clone`, Pull Request 흐름
 
 **단계를 완료하면 위 체크박스를 갱신하세요.** 세션이 바뀌어도 어디까지 했는지
 이어갈 수 있게 하는 것이 이 목록의 목적입니다.
@@ -61,6 +62,7 @@ Git을 **배우기 위한 연습장**입니다. 제품 코드가 아니고, 결�
 - git 2.45.1.windows.1
 - 사용자: LeeHwon0217 / hubo0217@naver.com (전역 설정 완료)
 - 기본 브랜치: `main`
+- 원격 저장소: `origin` → https://github.com/LeeHwon0217/git-study-notes (`push -u` 설정 완료)
 - 경로에 한글과 공백이 있음 (`c:\Honey\Git 연습`) — 명령어에서 경로를 쓸 땐 따옴표로 감쌀 것
 
 한글 파일명이 `\354\227\260...` 처럼 깨져 보이면
