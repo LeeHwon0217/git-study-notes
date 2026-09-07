@@ -47,7 +47,7 @@ Git을 **배우기 위한 연습장**입니다. 제품 코드가 아니고, 결�
 
 - [x] Lv.1 — 기초 사이클 (`status` / `add` / `commit` / `log`)
 - [x] Lv.2 — 변경 추적 (`diff`, `diff --staged`)
-- [ ] Lv.3 — 되돌리기 (`restore`, `restore --staged`, `commit --amend`, `.gitignore`)
+- [x] Lv.3 — 되돌리기 (`restore`, `restore --staged`, `commit --amend`, `.gitignore`)
 - [ ] Lv.4 — 브랜치와 병합 (`branch`, `switch`, `merge`)
 - [ ] Lv.5 — 충돌 해결 (conflict)
 - [x] Lv.6a — 원격 연결과 push (`remote add`, `push -u`) ← 완료

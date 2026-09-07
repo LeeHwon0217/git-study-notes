@@ -111,15 +111,16 @@ flowchart TD
 
     style L1 fill:#c8e6c9,color:#000
     style L2 fill:#c8e6c9,color:#000
-    style L3 fill:#fff9c4,color:#000
+    style L3 fill:#c8e6c9,color:#000
+    style L4 fill:#fff9c4,color:#000
 ```
 
 | 레벨 | 주제 | 문서 | 상태 |
 |:--:|:--|:--|:--:|
 | 1 | 기초 사이클 | [levels/01-basics.md](levels/01-basics.md) | ✅ 완료 |
 | 2 | 변경 추적 (diff) | [levels/02-diff.md](levels/02-diff.md) | ✅ 완료 |
-| 3 | 되돌리기 | [levels/03-undo.md](levels/03-undo.md) | 🔜 다음 |
-| 4 | 브랜치와 병합 | [levels/04-branch.md](levels/04-branch.md) | ⬜ |
+| 3 | 되돌리기 | [levels/03-undo.md](levels/03-undo.md) | ✅ 완료 |
+| 4 | 브랜치와 병합 | [levels/04-branch.md](levels/04-branch.md) | 🔜 다음 |
 | 5 | 충돌 해결 | [levels/05-conflict.md](levels/05-conflict.md) | ⬜ |
 | 6 | 원격 저장소 | [levels/06-remote.md](levels/06-remote.md) | 🚧 push 완료 |
 
